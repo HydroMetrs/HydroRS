@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<html>
+	
+	<head>
+		<title>Abstracts</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	
+	<body>
+		
+		<header id="header">
+			<h1 style="text-transform: none">Go to <a href="agenda.html" style="color:red">Agenda</a></h1>
+			<nav id="nav">
+			<ul style="vertical-align: center">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="Registration.html">Event Information</a></li> 
+				<li><a href="new_theme.html">WORLD CAFÉ</a></li>					
+				<li><a href="people.html">Speakers</a></li>
+				<li><a href="EL_post_24.pdf">Flyer</a></li>
+				<li><a href="photo.html">El Dia Team</a></li>
+			</ul>
+			</nav>
+		</header>
+		
+		<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+		
+		<section>
+		<div style="text-align: left; margin-top: 1em; font-size: 18px; margin-left: auto; margin-right: auto; width: 65%;">
+			<ul>
+				<li>Each oral presentation has one specific Q&amp;A session (approximate start time noted under Session).</li>
+				<li>See <a href="agenda.html">Agenda</a> for a complete schedule.</li>
+				<li><a href="Location.html">Location Information</a></li>
+			</ul>
+		</div>
+		</section>
+		
+		
+		<section>
+			
+			<style type="text/css">
+				.myTable  {border-collapse:collapse; border-spacing:0}
+				.myTable td{border-color:black;border-style:none;border-width:1px;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+				.myTable th{border-color:none;border-style:none;border-width:0px;;font-size:24px; font-weight:bold;overflow:hidden;padding:30px 5px;word-break:normal; text-align: center; background-color: white;}
+				.myTable .description{color:black;text-align:left;vertical-align:center; background:#E8F6F7}
+				.myTable .hc{border-color:none;color:black;text-align:center;vertical-align:center;background: white}
+				.myTable .hl{border-color:none;color:black;text-align:left;vertical-align:center;background: white}
+				.myTable .wr{border-color:#000000;text-align:left;vertical-align:top; background: white;}
+				.myTable .gr{border-color:#000000;color:#333333;text-align:left;vertical-align:top; background: #f6f6f6}
+			</style>
+			
+			<table class="myTable" style="width:65%; margin-left: auto; margin-right: auto">
+				
+				<thead>
+					
+				  <tr>
+					<th class="th" colspan="3">Oral Presentations</th>
+				  </tr>
+					
+				</thead>
+				
+				<tbody>
+					
+					<tr>
+						<td class="th" colspan="3" align="center" style="background-color: aqua"><strong>Oral Session 1</strong> - <a href="rubrics.html">Rubrics for Judges</a><br><strong>Moderator: </strong>EL DIA TEAM Member</td>
+					</tr>
+					
+					<tr>
+						<td class="hl"><span style="font-weight:bold">Presenter</span></td>
+						<td class="hl"><span style="font-weight:bold">Time</span></td>
+						<td class="hl"><span style="font-weight:bold">Abstract </span></td>
+					</tr>
+
+					{}
+					
+					<tr>
+						<td class="th" colspan="3" align="center" style="background-color: aqua"><strong>Oral Session 2</strong> - <a href="rubrics.html">Rubrics for Judges</a><br><strong>Moderator: </strong>EL DIA TEAM Member</td>
+					</tr>
+					
+					<tr>
+						<td class="hl"><span style="font-weight:bold">Presenter</span></td>
+						<td class="hl"><span style="font-weight:bold">Time</span></td>
+						<td class="hl"><span style="font-weight:bold">Abstract </span></td>
+					</tr>
+					
+					{}
+					
+					<tr>
+						<td class="th" colspan="3" align="center" style="background-color: aqua"><strong>Oral Session 3</strong> - <a href="rubrics.html">Rubrics for Judges</a><br><strong>Moderator: </strong>EL DIA TEAM Member</td>
+					</tr>
+					
+					<tr>
+						<td class="hl"><span style="font-weight:bold">Presenter</span></td>
+						<td class="hl"><span style="font-weight:bold">Time</span></td>
+						<td class="hl"><span style="font-weight:bold">Abstract </span></td>
+					</tr>
+					
+					{}			
+					
+				</tbody>
+			</table>
+		</section>
+
+		<section id="two" class="wrapper style1">
+		<div class="container">
+		<footer id="footer">
+			<img src="../images/ua_sci_hydroatmo.png" alt="" width="25%" style="margin-left: auto; margin-right: auto:"/><br><br>
+			<ul class="copyright" style="margin: 0px; text-align: center; vertical-align: center">
+				<li>&copy; Reza Ehsani, 2021; Edited by Y.H. Wang 2022-2023,<br> Mohammad Farmani 2024</li>
+              	<li><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Feldia-web.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" style="vertical-align: text-bottom" /></a></li>
+				<li>Contact Us: <a href="mailto:has.student.symposium@gmail.com" style="color:red">has.student.symposium@gmail.com</a></li>
+              </ul>
+		</footer>
+		</div>
+		</section>
+
+		<script src="./assets/js/jquery.min.js"></script>
+		<script src="./assets/js/skel.min.js"></script>
+		<script src="./assets/js/util.js"></script>
+		<script src="./assets/js/main.js"></script>
+
+	</body>
+</html>
